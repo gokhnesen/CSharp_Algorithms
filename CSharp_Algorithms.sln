@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstBadVersion", "FirstBad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{D2E4FFDF-ACA5-4B9D-A9EC-F64010C8F01D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresOfSortedArray", "SquaresOfSortedArray\SquaresOfSortedArray.csproj", "{01DFED24-FD3F-473B-9B29-5055633C89AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresOfSortedArray", "SquaresOfSortedArray\SquaresOfSortedArray.csproj", "{01DFED24-FD3F-473B-9B29-5055633C89AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{0653B0F3-8B73-4AC1-99EE-63F1614C4A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{01DFED24-FD3F-473B-9B29-5055633C89AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01DFED24-FD3F-473B-9B29-5055633C89AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01DFED24-FD3F-473B-9B29-5055633C89AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0653B0F3-8B73-4AC1-99EE-63F1614C4A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0653B0F3-8B73-4AC1-99EE-63F1614C4A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0653B0F3-8B73-4AC1-99EE-63F1614C4A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0653B0F3-8B73-4AC1-99EE-63F1614C4A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
