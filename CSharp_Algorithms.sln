@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailContains", "MailContain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{CA255090-BBA7-46ED-B02B-8BD670CE2FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA255090-BBA7-46ED-B02B-8BD670CE2FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA255090-BBA7-46ED-B02B-8BD670CE2FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA255090-BBA7-46ED-B02B-8BD670CE2FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA255090-BBA7-46ED-B02B-8BD670CE2FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
