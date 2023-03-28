@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquaresOfSortedArray", "Squ
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "RotateArray\RotateArray.csproj", "{0653B0F3-8B73-4AC1-99EE-63F1614C4A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{192AA53A-8BE6-4FDB-9A5C-D334A257F581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{192AA53A-8BE6-4FDB-9A5C-D334A257F581}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailContains", "MailContains\MailContains.csproj", "{FD5A972B-814B-4379-8F1E-CD9530E60889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{192AA53A-8BE6-4FDB-9A5C-D334A257F581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{192AA53A-8BE6-4FDB-9A5C-D334A257F581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{192AA53A-8BE6-4FDB-9A5C-D334A257F581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5A972B-814B-4379-8F1E-CD9530E60889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5A972B-814B-4379-8F1E-CD9530E60889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5A972B-814B-4379-8F1E-CD9530E60889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5A972B-814B-4379-8F1E-CD9530E60889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA899ABF-6619-4CBA-B7DE-4A03E3752A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
