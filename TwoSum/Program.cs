@@ -2,6 +2,7 @@
 {
     public class Program
     {
+        //https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
         public static int[] TwoSum(int[] numbers, int target)
         {
             int index=0, index2=numbers.Length-1;
@@ -18,7 +19,7 @@
         static void Main(string[] args)
         {
             int[] numbers = { 1, 2, 3, 4, 5 };
-            TwoSum(numbers, 3);
+            Console.Write(TwoSum(numbers, 3));
         }
     }
 }

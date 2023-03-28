@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{A5D7C1D1-2EAB-4500-AF03-F71EEAC6F93F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A47681F4-C250-4FCB-9D3E-A4BDE1E0DC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D7C1D1-2EAB-4500-AF03-F71EEAC6F93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D7C1D1-2EAB-4500-AF03-F71EEAC6F93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D7C1D1-2EAB-4500-AF03-F71EEAC6F93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D7C1D1-2EAB-4500-AF03-F71EEAC6F93F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
