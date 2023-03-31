@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseString\ReverseString.csproj", "{A5D7C1D1-2EAB-4500-AF03-F71EEAC6F93F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringChallenge", "StringChallenge\StringChallenge.csproj", "{9B26FD97-2913-49B9-B06D-E7545551CB1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringChallenge", "StringChallenge\StringChallenge.csproj", "{9B26FD97-2913-49B9-B06D-E7545551CB1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchingChallenge", "SearchingChallenge\SearchingChallenge.csproj", "{C9BADF12-5D89-4DFD-8002-80870C19967F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchingChallenge", "SearchingChallenge\SearchingChallenge.csproj", "{C9BADF12-5D89-4DFD-8002-80870C19967F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTimeDifference", "StringTimeDifference\StringTimeDifference.csproj", "{92C4555F-C26B-4063-9260-10A1684E47CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTimeDifference", "StringTimeDifference\StringTimeDifference.csproj", "{92C4555F-C26B-4063-9260-10A1684E47CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOddNumbers", "CountOddNumbers\CountOddNumbers.csproj", "{0514900C-81A5-4B70-BC77-955165F22E36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{92C4555F-C26B-4063-9260-10A1684E47CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92C4555F-C26B-4063-9260-10A1684E47CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92C4555F-C26B-4063-9260-10A1684E47CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0514900C-81A5-4B70-BC77-955165F22E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0514900C-81A5-4B70-BC77-955165F22E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0514900C-81A5-4B70-BC77-955165F22E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0514900C-81A5-4B70-BC77-955165F22E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
