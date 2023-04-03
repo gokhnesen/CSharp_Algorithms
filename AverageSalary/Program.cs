@@ -5,13 +5,23 @@
         //https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
         public double Average(int[] salary)
         {
-            int sum = 0;
-            int average = 0;
+            double sum = 0;
+            int max = salary[0];
+            int min = salary[0];
+            
             for (int i = 0; i < salary.Length; i++)
             {
-                sum += salary[i];
+                if (min > salary[i])
+                {
+                    min = salary[i];
+                }
+                if (max < salary[i])
+                {
+                    max = salary[i];
+                }
+               sum += salary[i];
             }
-            return sum/salary.Length;
+            return (sum - max - min) / (salary.Length - 2);
         }
         static void Main(string[] args)
         {
