@@ -9,10 +9,10 @@
 
             Console.WriteLine("Enter the number you want to know the number of digits");
 
-            int number = int.Parse(Console.ReadLine());
+            var number = int.Parse(Console.ReadLine());
 
-            int _number = number;
-            int sum = 0;
+            var _number = number;
+            var sum = 0;
             while (number >= 10)
             {
                 number /= 10;
