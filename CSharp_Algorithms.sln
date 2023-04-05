@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTimeDifference", "Str
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountOddNumbers", "CountOddNumbers\CountOddNumbers.csproj", "{0514900C-81A5-4B70-BC77-955165F22E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageSalary", "AverageSalary\AverageSalary.csproj", "{238B18B8-D2BD-42A9-AEE3-9B42988B1900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageSalary", "AverageSalary\AverageSalary.csproj", "{238B18B8-D2BD-42A9-AEE3-9B42988B1900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{808AE8CB-B615-4C0C-852B-E9AF6BB6FD3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{808AE8CB-B615-4C0C-852B-E9AF6BB6FD3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstractTheProductAndSumOfDigitsInteger", "SubstractTheProductAndSumOfDigitsInteger\SubstractTheProductAndSumOfDigitsInteger.csproj", "{60C6B771-C556-4969-82E9-958D4B86022F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{808AE8CB-B615-4C0C-852B-E9AF6BB6FD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808AE8CB-B615-4C0C-852B-E9AF6BB6FD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808AE8CB-B615-4C0C-852B-E9AF6BB6FD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C6B771-C556-4969-82E9-958D4B86022F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C6B771-C556-4969-82E9-958D4B86022F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C6B771-C556-4969-82E9-958D4B86022F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C6B771-C556-4969-82E9-958D4B86022F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
