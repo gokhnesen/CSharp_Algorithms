@@ -9,13 +9,13 @@
             for(int i=0;i<arr.Length-1; i++)
             {
                 int diff = Math.Abs(arr[0]- arr[1]);
-                if (arr[i] + diff == arr[i + 1])
+                if (arr[i] + diff != arr[i + 1])
                 {
-                    return true;
+                    return false;
                 }
 
             }
-            return false;
+            return true;
         }
         static void Main(string[] args)
         {
