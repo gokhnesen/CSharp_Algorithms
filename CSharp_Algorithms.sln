@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageSalary", "AverageSal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOf1Bits", "NumberOf1Bits\NumberOf1Bits.csproj", "{808AE8CB-B615-4C0C-852B-E9AF6BB6FD3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstractTheProductAndSumOfDigitsInteger", "SubstractTheProductAndSumOfDigitsInteger\SubstractTheProductAndSumOfDigitsInteger.csproj", "{60C6B771-C556-4969-82E9-958D4B86022F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstractTheProductAndSumOfDigitsInteger", "SubstractTheProductAndSumOfDigitsInteger\SubstractTheProductAndSumOfDigitsInteger.csproj", "{60C6B771-C556-4969-82E9-958D4B86022F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignOfTheProductOfAnArray", "SignOfTheProductOfAnArray\SignOfTheProductOfAnArray.csproj", "{DC81CEBA-F8C2-415D-9724-04836256C21F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignOfTheProductOfAnArray", "SignOfTheProductOfAnArray\SignOfTheProductOfAnArray.csproj", "{DC81CEBA-F8C2-415D-9724-04836256C21F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanMakeArithmeticProgressionFromSequence", "CanMakeArithmeticProgressionFromSequence\CanMakeArithmeticProgressionFromSequence.csproj", "{71B8901F-F0B4-44B4-924F-533B16C38AB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{DC81CEBA-F8C2-415D-9724-04836256C21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC81CEBA-F8C2-415D-9724-04836256C21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC81CEBA-F8C2-415D-9724-04836256C21F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B8901F-F0B4-44B4-924F-533B16C38AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B8901F-F0B4-44B4-924F-533B16C38AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B8901F-F0B4-44B4-924F-533B16C38AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B8901F-F0B4-44B4-924F-533B16C38AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
