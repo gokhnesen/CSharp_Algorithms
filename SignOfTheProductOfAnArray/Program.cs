@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        //https://leetcode.com/problems/sign-of-the-product-of-an-array
+        ////https://leetcode.com/problems/sign-of-the-product-of-an-array
         public int ArraySign(int[] nums)
         {
             var sum = 1;
